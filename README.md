@@ -13,7 +13,7 @@ PNAS paper. They include:
     available space occupied by a given strain? This works by drawing a
     cubed box around the focal pixel, and then within each distance
     window, calculating the proportion of available pixels occupied by a
-    given strain. This is something akin to Apollo 2012 (PNAS).
+    given strain. This is something akin to Apollo 2012 (PNAS) http://www.pnas.org/content/111/21/7819.abstract.
 
 Setting up
 ----------
